@@ -16,13 +16,13 @@
   <em>Software Developer | Python & C++</em>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile+Views&color=2E86DE&style=flat-square"/>
+<img src="https://github.com/FarheenQudsia/FarheenQudsia/blob/main/assets/Icons_banner.png"/>
 
 </div>
 
 ---
 
-<img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO/main/assets/divider.svg" width="100%" />
+<img src="https://github.com/FarheenQudsia/FarheenQudsia/blob/main/assets/professional-divider.svg" />
 
 ---
 
