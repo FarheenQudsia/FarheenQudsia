@@ -16,7 +16,7 @@
   <em>Software Developer | Python & C++</em>
 </p>
 
-<img src="https://github.com/FarheenQudsia/FarheenQudsia/blob/main/assets/Icons_banner.png>
+<img src="assets/Icons_banner.png>
 
 </div>
 
