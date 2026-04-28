@@ -83,18 +83,23 @@ Continuously learning and improving in programming and development tools.
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=vue-dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=github-compact&hide_border=true" width="48%" />
-</div>
+ <div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=M-Abbas1&show_icons=true&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=2E86DE&icon_color=2E86DE&text_color=C9D1D9&count_private=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Abbas1&layout=compact&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=2E86DE&icon_color=2E86DE&text_color=C9D1D9&langs_count=8" height="180em" />
+
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR-USERNAME&theme=vue" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-Abbas1&theme=vue-dark&hide_border=true&background=0D1117&ring=2E86DE&fire=2E86DE&currStreakLabel=2E86DE" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=M-Abbas1&theme=github-compact&hide_border=true&bg_color=0D1117&color=2E86DE&line=2E86DE&point=C9D1D9" width="48%" />
+</div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M-Abbas1&theme=vue" width="97%" />
+</div>
+<div align="center">
+  <img src="assets/professional-divider.svg" width="100%" alt="Divider" />
 </div>
 
----
-
-<img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO/main/assets/divider.svg" width="100%" />
 
 ---
 
