@@ -83,7 +83,7 @@ Continuously learning and improving in programming and development tools.
 
 <div align="center">
   <img src="https://github.com/FarheenQudsia/FarheenQudsia/blob/main/assets/ai_reseacher_card.svg" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=github-compact&hide_border=true" width="48%" />
+  <img src="https://github.com/FarheenQudsia/FarheenQudsia/blob/main/assets/file%20.pk.gif" width="48%" />
 </div>
 
 <div align="center">
