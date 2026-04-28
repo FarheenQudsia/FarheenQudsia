@@ -39,7 +39,6 @@ Continuously learning and improving in programming and development tools.
   <img src="https://github.com/FarheenQudsia/FarheenQudsia/blob/main/assets/ai_reseacher_card.svg" width="48%" />
   <img src="https://github.com/FarheenQudsia/FarheenQudsia/blob/main/assets/file%20.pk.gif" width="48%" />
 </div>
-
 ---
 
 ## 🛠️ Technical Skills
