@@ -2,7 +2,7 @@
 <!-- 🌌 Background -->
 <!-- =============================== -->
 
-![Background](https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO/main/assets/matrix1.svg)
+![Background](https://github.com/FarheenQudsia/FarheenQudsia/blob/main/assets/matrix1.svg)
 
 <!-- =============================== -->
 <!-- 👋 Header -->
