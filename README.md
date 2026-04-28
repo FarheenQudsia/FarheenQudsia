@@ -16,7 +16,7 @@
   <em>Software Developer | Python & C++</em>
 </p>
 
-<img src="https://github.com/FarheenQudsia/FarheenQudsia/blob/main/assets/Icons_banner.png"/>
+<img src="https://github.com/FarheenQudsia/FarheenQudsia/blob/main/assets/Icons_banner.png/>
 
 </div>
 
@@ -35,7 +35,10 @@ Continuously learning and improving in programming and development tools.
 
 ---
 
-<img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO/main/assets/divider.svg" width="100%" />
+<div align="center">
+  <img src="https://github.com/FarheenQudsia/FarheenQudsia/blob/main/assets/ai_reseacher_card.svg" width="48%" />
+  <img src="https://github.com/FarheenQudsia/FarheenQudsia/blob/main/assets/file%20.pk.gif" width="48%" />
+</div>
 
 ---
 
@@ -82,8 +85,8 @@ Continuously learning and improving in programming and development tools.
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github.com/FarheenQudsia/FarheenQudsia/blob/main/assets/ai_reseacher_card.svg" width="48%" />
-  <img src="https://github.com/FarheenQudsia/FarheenQudsia/blob/main/assets/file%20.pk.gif" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=vue-dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=github-compact&hide_border=true" width="48%" />
 </div>
 
 <div align="center">
