@@ -18,14 +18,15 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=2E86DE&center=true&vCenter=true&width=600&lines=Farheen+Qudsia" alt="Typing Animation" />
   </h1>
 
-<p>
-  <em>Software Developer | Python & C++</em>
-</p>
-
-<img src="assets/Icons_banner.png>
-
+  
+  <p>
+    <em>Information Technology, GC University Faisalabad</em>
+  </p>
+  
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=FarheenQudsia&label=Profile+Views&color=2E86DE&style=flat-square" alt="Profile Views"/>
+  </p>
 </div>
-
 ---
 
 <img src="https://github.com/FarheenQudsia/FarheenQudsia/blob/main/assets/professional-divider.svg" />
