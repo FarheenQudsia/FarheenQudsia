@@ -84,17 +84,17 @@ Continuously learning and improving in programming and development tools.
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=vue-dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=github-compact&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FarheenQudsia&theme=vue-dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FarheenQudsia&theme=github-compact&hide_border=true" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR-USERNAME&theme=vue" width="97%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FarheenQudsia&theme=vue" width="97%" />
 </div>
 
 ---
 
-<img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO/main/assets/divider.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/FarheenQudsia/YOUR-REPO/main/assets/divider.svg" width="100%" />
 
 ---
 
