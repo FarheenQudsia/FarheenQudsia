@@ -88,7 +88,7 @@ Continuously learning and improving in programming and development tools.
 
 <img src="https://github.com/FarheenQudsia/FarheenQudsia/blob/main/assets/professional-divider.svg" />
 
-<img src="https://raw.githubusercontent.com/FarheenQudsia/Readme.md/main/assets/divider.svg" width="100%" />
+
 
 
 ## 📊 GitHub Analytics
@@ -104,7 +104,7 @@ Continuously learning and improving in programming and development tools.
 
 
 
-<img src="https://raw.githubusercontent.com/FarheenQudsia/README.md/main/assets/divider.svg" width="100%" />
+<img src="https://github.com/FarheenQudsia/FarheenQudsia/blob/main/assets/professional-divider.svg" />
 
 
 ## 📫 Connect With Me
