@@ -49,7 +49,8 @@ Continuously learning and improving in programming and development tools.
   <img src="https://github.com/FarheenQudsia/FarheenQudsia/blob/main/assets/ai_reseacher_card.svg" width="48%" />
   <img src="https://github.com/FarheenQudsia/FarheenQudsia/blob/main/assets/file%20.pk.gif" width="48%" />
 </div>
----
+
+<img src="https://github.com/FarheenQudsia/FarheenQudsia/blob/main/assets/professional-divider.svg" />
 
 ## 🛠️ Technical Skills
 
@@ -85,11 +86,10 @@ Continuously learning and improving in programming and development tools.
 
 </div>
 
----
+<img src="https://github.com/FarheenQudsia/FarheenQudsia/blob/main/assets/professional-divider.svg" />
 
-<img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO/main/assets/divider.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/FarheenQudsia/Readme.md/main/assets/divider.svg" width="100%" />
 
----
 
 ## 📊 GitHub Analytics
 
@@ -102,11 +102,10 @@ Continuously learning and improving in programming and development tools.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FarheenQudsia&theme=vue" width="97%" />
 </div>
 
----
 
-<img src="https://raw.githubusercontent.com/FarheenQudsia/YOUR-REPO/main/assets/divider.svg" width="100%" />
 
----
+<img src="https://raw.githubusercontent.com/FarheenQudsia/README.md/main/assets/divider.svg" width="100%" />
+
 
 ## 📫 Connect With Me
 
