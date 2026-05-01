@@ -123,7 +123,6 @@ Continuously learning and improving in programming and development tools.
   <img src="https://img.shields.io/github/stars/FarheenQudsia?label=Stars&style=social" alt="GitHub Stars"/>
 </p>
 </div>
----
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=24&fontAlignY=70&animation=twinkling" width="100%"/>
 </div>
