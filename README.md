@@ -100,18 +100,7 @@ Continuously learning and improving in programming and development tools.
 
 ## 📫 Connect With Me
 
-<div align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farheen-qudsia/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farheenqudsia@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FarheenQudsia)
 
-</div>
-
----
-
-<div align="center">
-  <em>"Keep building. Keep learning."</em>
-</div>
 ### <img src="./assets/ConnectWithMe.png" align = "center" width=100% height=auto>
 <div align="center">
   
@@ -125,8 +114,8 @@ Continuously learning and improving in programming and development tools.
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/muhammad.abbas.990384)
 
 <p>
-  <img src="https://img.shields.io/github/followers/M-Abbas1?label=Followers&style=social" alt="GitHub Followers"/>
-  <img src="https://img.shields.io/github/stars/M-Abbas1?label=Stars&style=social" alt="GitHub Stars"/>
+  <img src="https://img.shields.io/github/followers/FarheenQudsia?label=Followers&style=social" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/stars/FarheenQudsia?label=Stars&style=social" alt="GitHub Stars"/>
 </p>
 </div>
 ---
