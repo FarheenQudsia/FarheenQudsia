@@ -5,15 +5,9 @@
 ![Background](https://github.com/FarheenQudsia/FarheenQudsia/blob/main/assets/matrix1.svg)
 
 <!-- =============================== -->
-<!-- 👋 Header -->
+
 <!-- =============================== -->
 
-<h1 align="center">
-    <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-alt="Yellow cartoon hand performing friendly waving motion against transparent background"
-height="45" width="45"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0d8f0d&center=true&vCenter=true&multiline=false&repeat=true&width=900&lines=I'm+Farheen+Qudsia" alt="Animated purple text typing effect displaying: Im Farheen Qudsia" />
-</h1>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
