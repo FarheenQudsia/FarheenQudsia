@@ -2,7 +2,7 @@
 <!-- 🌌 Background -->
 <!-- =============================== -->
 
-![Background](https://github.com/FarheenQudsia/FarheenQudsia/blob/main/assets/Icons_banner.png)
+![Background](https://github.com/FarheenQudsia/FarheenQudsia/blob/main/assets/matrix1.svg)
 
 <!-- =============================== -->
 
