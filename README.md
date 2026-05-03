@@ -29,7 +29,7 @@
 </div>
 ---
 <p align="center">
-  <img src="./assets/Icons_banner_small.png" width="100%" alt="Banner"/>
+  <img src="https://github.com/FarheenQudsia/FarheenQudsia/blob/main/assets/Icons_banner.png" width="100%" alt="Banner"/>
 </p>
 
 <img src="https://github.com/FarheenQudsia/FarheenQudsia/blob/main/assets/professional-divider.svg" />
